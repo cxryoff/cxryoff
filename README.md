@@ -34,8 +34,16 @@
 | ![]([https://github-readme-streak-stats.herokuapp.com/?user=cxryoff&theme=dark&hide=border=false](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)) | ![](https://github-readme-stats.vercel.app/api?username=cxryoff&theme=dark&hide_border=false&include_all_commits=false&count_private=false) |
 | :-: | :-: |
 
+## Connect with me on LinkedIn
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="silas-alvares-18a240245" data-version="v1" style="float: right;">
     <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/silas-alvares-18a240245/en?trk=profile-badge" style="color: darkgreen; text-decoration: none;">
         <span style="color: black;">Silas Alvares</span>
     </a>
 </div>
+
+## Connect with me on LinkedIn
+
+[Silas Alvares](https://br.linkedin.com/in/silas-alvares-18a240245/en?trk=profile-badge)
+
+
