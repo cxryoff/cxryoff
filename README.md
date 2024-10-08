@@ -41,9 +41,3 @@
         <span style="color: black;">Silas Alvares</span>
     </a>
 </div>
-
-## Connect with me on LinkedIn
-
-[Silas Alvares](https://br.linkedin.com/in/silas-alvares-18a240245/en?trk=profile-badge)
-
-
